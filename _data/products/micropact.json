@@ -1,7 +1,7 @@
 {
     "slug": "micropact",
     "name": "MicroPact Product Suite",
-    "url": "micropact.png",
+    "url": "micropact.com/products/",
     "top_keywords": [
         "cloud computing",
         "low-code application development",
@@ -17,5 +17,5 @@
     "contracts":[
         "sewp"
     ],
-    "fedramp_agency":"http://www.fedramp.gov/marketplace/compliant-systems/micropact-micropact-product-suite/",
+    "fedramp_agency":"marketplace.fedramp.gov/#/product/micropact-product-suite?sort=productName",
 }
